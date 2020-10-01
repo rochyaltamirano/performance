@@ -1087,3 +1087,135 @@ java.lang.ClassCastException: class javax.swing.text.DefaultStyledDocument canno
 2020-10-01 15:50:04,120 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-1
 2020-10-01 15:50:04,120 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
 2020-10-01 15:50:04,121 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2020-10-01 16:25:14,372 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-10-01 16:25:14,372 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-10-01 16:25:14,373 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-10-01 16:25:14,466 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Primera Prueba
+2020-10-01 16:25:14,466 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Primera Prueba.
+2020-10-01 16:25:14,466 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-10-01 16:25:14,467 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-10-01 16:25:14,467 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-10-01 16:25:14,467 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Segunda Prueba Prex
+2020-10-01 16:25:14,467 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Segunda Prueba Prex.
+2020-10-01 16:25:14,467 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-10-01 16:25:14,467 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=1 ramp-up=1 delayedStart=false
+2020-10-01 16:25:14,467 INFO o.a.j.t.JMeterThread: Thread started: Primera Prueba 1-1
+2020-10-01 16:25:14,467 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2020-10-01 16:25:14,467 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-10-01 16:25:14,471 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-1
+2020-10-01 16:25:14,471 INFO o.a.j.s.FileServer: Stored: /Users/rocioaltamirano/proyectos/performance/datos.txt
+2020-10-01 16:25:16,717 INFO o.a.j.t.JMeterThread: Thread is done: Primera Prueba 1-1
+2020-10-01 16:25:16,717 INFO o.a.j.t.JMeterThread: Thread finished: Primera Prueba 1-1
+2020-10-01 16:25:16,717 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-1
+2020-10-01 16:25:16,717 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-1
+2020-10-01 16:25:16,717 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-10-01 16:25:16,718 INFO o.a.j.s.FileServer: Close: /Users/rocioaltamirano/proyectos/performance/datos.txt
+2020-10-01 16:25:16,718 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2020-10-01 16:25:35,088 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-10-01 16:25:35,088 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-10-01 16:25:35,090 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-10-01 16:25:35,168 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Primera Prueba
+2020-10-01 16:25:35,169 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Primera Prueba.
+2020-10-01 16:25:35,169 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-10-01 16:25:35,169 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-10-01 16:25:35,169 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-10-01 16:25:35,169 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Segunda Prueba Prex
+2020-10-01 16:25:35,169 INFO o.a.j.e.StandardJMeterEngine: Starting 11 threads for group Segunda Prueba Prex.
+2020-10-01 16:25:35,169 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-10-01 16:25:35,169 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=11 ramp-up=1 delayedStart=false
+2020-10-01 16:25:35,169 INFO o.a.j.t.JMeterThread: Thread started: Primera Prueba 1-1
+2020-10-01 16:25:35,183 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-1
+2020-10-01 16:25:35,183 INFO o.a.j.s.FileServer: Stored: /Users/rocioaltamirano/proyectos/performance/datos.txt
+2020-10-01 16:25:35,186 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2020-10-01 16:25:35,186 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-10-01 16:25:35,273 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-2
+2020-10-01 16:25:35,356 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-3
+2020-10-01 16:25:35,448 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-4
+2020-10-01 16:25:35,539 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-5
+2020-10-01 16:25:35,625 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-6
+2020-10-01 16:25:35,719 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-7
+2020-10-01 16:25:35,808 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-8
+2020-10-01 16:25:35,899 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-9
+2020-10-01 16:25:35,991 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-10
+2020-10-01 16:25:36,083 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-11
+2020-10-01 16:25:36,731 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-1
+2020-10-01 16:25:36,731 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-1
+2020-10-01 16:25:36,993 INFO o.a.j.t.JMeterThread: Thread is done: Primera Prueba 1-1
+2020-10-01 16:25:36,993 INFO o.a.j.t.JMeterThread: Thread finished: Primera Prueba 1-1
+2020-10-01 16:25:36,995 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-3
+2020-10-01 16:25:36,995 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-2
+2020-10-01 16:25:36,995 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-3
+2020-10-01 16:25:36,995 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-2
+2020-10-01 16:25:37,316 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-6
+2020-10-01 16:25:37,316 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-6
+2020-10-01 16:25:37,426 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-4
+2020-10-01 16:25:37,426 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-4
+2020-10-01 16:25:37,437 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-5
+2020-10-01 16:25:37,437 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-5
+2020-10-01 16:25:37,634 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-8
+2020-10-01 16:25:37,634 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-8
+2020-10-01 16:25:37,674 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-7
+2020-10-01 16:25:37,675 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-7
+2020-10-01 16:25:37,738 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-9
+2020-10-01 16:25:37,738 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-9
+2020-10-01 16:25:37,762 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-10
+2020-10-01 16:25:37,762 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-10
+2020-10-01 16:25:38,113 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-11
+2020-10-01 16:25:38,113 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-11
+2020-10-01 16:25:38,114 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-10-01 16:25:38,114 INFO o.a.j.s.FileServer: Close: /Users/rocioaltamirano/proyectos/performance/datos.txt
+2020-10-01 16:25:38,114 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2020-10-01 16:29:03,083 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-10-01 16:29:03,083 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-10-01 16:29:03,085 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-10-01 16:29:03,161 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Primera Prueba
+2020-10-01 16:29:03,161 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Primera Prueba.
+2020-10-01 16:29:03,161 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-10-01 16:29:03,161 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2020-10-01 16:29:03,162 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2020-10-01 16:29:03,162 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : Segunda Prueba Prex
+2020-10-01 16:29:03,162 INFO o.a.j.e.StandardJMeterEngine: Starting 11 threads for group Segunda Prueba Prex.
+2020-10-01 16:29:03,162 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-10-01 16:29:03,162 INFO o.a.j.t.ThreadGroup: Starting thread group... number=2 threads=11 ramp-up=1 delayedStart=false
+2020-10-01 16:29:03,162 INFO o.a.j.t.JMeterThread: Thread started: Primera Prueba 1-1
+2020-10-01 16:29:03,162 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-1
+2020-10-01 16:29:03,163 INFO o.a.j.s.FileServer: Stored: /Users/rocioaltamirano/proyectos/performance/datos.txt
+2020-10-01 16:29:03,168 INFO o.a.j.t.ThreadGroup: Started thread group number 2
+2020-10-01 16:29:03,168 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-10-01 16:29:03,256 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-2
+2020-10-01 16:29:03,348 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-3
+2020-10-01 16:29:03,441 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-4
+2020-10-01 16:29:03,534 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-5
+2020-10-01 16:29:03,619 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-6
+2020-10-01 16:29:03,715 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-7
+2020-10-01 16:29:03,803 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-8
+2020-10-01 16:29:03,896 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-9
+2020-10-01 16:29:03,986 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-10
+2020-10-01 16:29:04,073 INFO o.a.j.t.JMeterThread: Thread started: Segunda Prueba Prex 2-11
+2020-10-01 16:29:04,623 INFO o.a.j.t.JMeterThread: Thread is done: Primera Prueba 1-1
+2020-10-01 16:29:04,623 INFO o.a.j.t.JMeterThread: Thread finished: Primera Prueba 1-1
+2020-10-01 16:29:04,635 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-1
+2020-10-01 16:29:04,635 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-1
+2020-10-01 16:29:04,666 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-2
+2020-10-01 16:29:04,666 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-2
+2020-10-01 16:29:04,854 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-4
+2020-10-01 16:29:04,854 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-4
+2020-10-01 16:29:05,010 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-3
+2020-10-01 16:29:05,011 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-3
+2020-10-01 16:29:05,200 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-5
+2020-10-01 16:29:05,200 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-5
+2020-10-01 16:29:05,275 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-7
+2020-10-01 16:29:05,275 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-7
+2020-10-01 16:29:05,304 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-6
+2020-10-01 16:29:05,304 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-6
+2020-10-01 16:29:05,336 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-9
+2020-10-01 16:29:05,336 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-9
+2020-10-01 16:29:05,480 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-8
+2020-10-01 16:29:05,480 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-8
+2020-10-01 16:29:05,530 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-10
+2020-10-01 16:29:05,530 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-10
+2020-10-01 16:29:05,655 INFO o.a.j.t.JMeterThread: Thread is done: Segunda Prueba Prex 2-11
+2020-10-01 16:29:05,655 INFO o.a.j.t.JMeterThread: Thread finished: Segunda Prueba Prex 2-11
+2020-10-01 16:29:05,655 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-10-01 16:29:05,655 INFO o.a.j.s.FileServer: Close: /Users/rocioaltamirano/proyectos/performance/datos.txt
+2020-10-01 16:29:05,655 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
